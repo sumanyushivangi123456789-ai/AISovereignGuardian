@@ -1,1 +1,3 @@
-app = FastAPI()
+from fastapi import FastAPI
+# All your other code follows below this line
+# ...
